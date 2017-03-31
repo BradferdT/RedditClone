@@ -1,0 +1,7 @@
+.body_message{
+  font-weight: bold;
+}
+
+.collection.with-header .collection-item{
+  padding-bottom: 25px;
+}
